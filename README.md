@@ -1,7 +1,7 @@
 #Dépot des contenus Creative Commons de la campagne consulaire 2014
 
 Tous les éléments de ce dépot sont sous licence **Attribution - Pas d’Utilisation Commerciale CC BY-NC** sauf pour certains éléments, ci-dessous, ayant une licence plus restrictive.
-
+Précision : Le logo [rosace multicolore avec une mappemonde blanche] est une propriété du Parti Socialiste français. Il ne peut donc pas être utilisé sans l'accord de ce dernier. 
 
 <h1>Du site engages-solidaires.qc.com</h1>
 <h2>Icônes</h2>
